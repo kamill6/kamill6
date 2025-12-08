@@ -47,8 +47,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=550&lines=Session+Closed...;Connection+Terminated.">
 </p>
 
----
-
-### ✅ This version **WILL display correctly** on GitHub.
-
-If you want an even **shorter**, **cleaner**, or **more hacker-style** version, I can generate another one.
