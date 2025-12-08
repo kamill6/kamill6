@@ -38,7 +38,7 @@
 
 ## 📫 Contact
 
-📧 [your-email@example.com](mailto:gancler@proton.me)
+📧 [gancler@proton.me](mailto:gancler@proton.me)
 🐱 GitHub: github.com/kamilcoin
 
 ---
