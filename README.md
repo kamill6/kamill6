@@ -38,8 +38,8 @@
 
 ## 📫 Contact
 
-📧 [your-email@example.com](mailto:your-email@example.com)
-🐱 GitHub: github.com/yourusername
+📧 [your-email@example.com](mailto:gancler@proton.me)
+🐱 GitHub: github.com/kamilcoin
 
 ---
 
