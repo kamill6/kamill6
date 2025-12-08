@@ -44,7 +44,6 @@ Focused on continuous learning, improving exploitation skills, and building tool
 * **eCPPTv2 – Professional Penetration Tester (INE)**
 * **eJPT – Junior Penetration Tester (INE)**
 
-These certifications reflect hands-on abilities in real exploitation scenarios, reporting, and methodology.
 
 ---
 
