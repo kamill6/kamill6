@@ -1,12 +1,4 @@
-Got you — **GitHub profile README doesn’t allow HTML styling like `<span style="">` or custom colors.**
-GitHub **filters out most HTML/CSS**, so your previous version won’t display correctly.
 
-So here is a **GitHub-safe version** (ONLY Markdown + supported HTML).
-Everything below **WILL show correctly on your GitHub profile**.
-
-Copy this into **`README.md`** in your profile repo (`github.com/YOURUSERNAME/YOURUSERNAME`):
-
----
 
 # <h1 align="center">🟩 Kamil Aghamaliyev</h1>
 
