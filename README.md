@@ -23,11 +23,6 @@ eCPPTv2 – Professional Penetration Tester (INE)
 
 eJPT – Junior Penetration Tester (INE)
 
-These certifications strengthened my skills in:
-✔ Web exploitation
-✔ Network attacks
-✔ Reporting & methodology
-✔ Hands-on real lab scenarios
 
 📫 Contact
 
